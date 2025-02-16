@@ -1,1 +1,2 @@
 # BrandProtectionHunt3r
+In the Post-Incident Stage, the process will help leverage containment checking in case of similar pattern detection. The core of the implementation uses the Fofa platform as the source of truth.
